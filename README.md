@@ -2,4 +2,4 @@
 
 ## Team Members
 
-*[ex1](link_to_github_home)
+[ex1](link_to_github_home)
