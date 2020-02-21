@@ -2,4 +2,4 @@
 
 ## Team Members
 
-[ex1](link_to_github_home)
+1. [Rui Yang](https://github.com/ruiyang00)
